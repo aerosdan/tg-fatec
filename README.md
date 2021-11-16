@@ -16,7 +16,7 @@ Me considero sortudo na vida pois sempre tive em minha volta pessoas incriveis a
 * Golang  
 * JS  
 * API Rest  
-* MySQL, Postgre, Oracle, MS SQL  
+* MySQL, Postgree, Oracle, MS SQL  
 * Mongo DB  
 
 # **PROJETOS DESENVOLVIDOS**
@@ -252,7 +252,7 @@ Tendo escolhido o Framework Django pude me aprofundar com auxilio da doc oficial
 Nessa etapa montamos o modelo relacional e em seguida criamos as tabelas para demonstração e testes fora do Python/DJANGO. Em seguida passamos para dentro do framework para que fosse mais facil mante-lo atualizado (dinamica de models + migrations) e também para que o restante da aplicação se comunicasse de forma apropridade com a base de dados.
 
 <div align="center">
-    <img src="./rsc/bridges/relacional-bridges.png" width="320" />
+    <img src="./rsc/bridges/relacional-bridges.png" width="960" />
     <div height="2"></div>
     </br>
 </div>
@@ -554,23 +554,89 @@ Repositório GIT: [Valcode](https://github.com/aerosdan/valcode)
 
 ## Descrição do Projeto
 
-#TODO
+O Projeto VALCODE tem a intenção de introduzir o usuário - que na maioria dos casos é uma PF - à dinâmica de Score. Apresentando por meio de uma aplicação WEB como está a 'saude' do seu score assim como os motivos para tal status e  apresentando dicas de como poderia melhorar seu score e até mesmo atuar em outras frentes - como investimentos em ações - caso seu score esteja com uma boa pontuação. O projeto possui as seguintes features:
+
+* Cadastrar Usuários;  
+* Conceder, estender ou revogar acessos aos próprios dados;  
+* Calcular Score;  
+* Cadastrar transações financeiras (contas pagas, à pagar, vencidas, emprestimos, etc.);  
+* Geração de relatórios;  
+* Importação / Exportação de dados em/para arquivo;  
 
 ## Tecnologias Utilizadas 
 
-#TODO
+Java - linguagem fixada pela FATEC;
+Spring-boot - o framework possibilitaria termos mais agilidade em desenvolver em conjunto. Além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos duvidas e materias de aprendizagem;
+Oracle - banco de dados fixado pela FATEC;
 
 ## Contribuições Pessoais
 
-#TODO
+Neste projeto atuei principalmente na camada de banco de dados e orquestrador do time para termos mais ideias boas para o projeto (scrum-master).
+
+** Base de Dados**
+Construi o database inicial direto no SQL e gerei dados mockados para o restante da equipe utilizar até termos um dataset disponibilizado pelo cliente. Com o andamento do projeto fomos controlando o banco através do Spring-boot (model) e adicionando as funcionalidade de interação nessa camada da aplicação.
+
+```java
+package com.ExampleValcode.valcode.model.entity;
+
+import lombok.*;
+
+import javax.persistence.*;
+
+import javax.persistence.*;
+import java.math.BigInteger;
+
+@Entity
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Table(name = "PESSOA_FISICA")
+public class PessoaFisica {
+    @Id
+    @Column(name = "PF_DOC_CLI")
+    private String doc_cli;
+
+    @Column(name = "PF_IDC_SEXO", length = 1)
+    private String idc_sexo;
+
+    @Column(name = "pf_ano_nasc")
+    private Integer ano_dat_nascimento;
+
+    @Column(name = "pf_nome_cidade", length = 100)
+    private String cidade;
+
+    @Column(name = "pf_des_estado")
+    private String estado;
+}
+```
+
+Modelo Relacional desenvolvido
+<div align="center">
+    <img src="./rsc/valcode/MR.jpg" width="960" />
+    <div height="2"></div>
+    </br>
+</div>
+
+Diagrama de Classe
+<div align="center">
+    <img src="./rsc/valcode/DC.jpg" width="960" />
+    <div height="2"></div>
+    </br>
+</div>
+
+**SCRUM Master**
+  
+Em termos gerais consegui contribuir bem com ideias para construir o escopo geral do produto final e orquestrar bem o time em questão de delegar funções e auxiliar em casos de problemas.
 
 ## Hard Skills Desenvolvidas
 
-#TODO
+Modeleagem de Banco de Dados - criar, testar e explorar a modelagem;  
+Spring-boot - pude ser introduzido ao framework e ver semelhanças e diferenças entre outras ferramentas utilizadas previamente. 
 
 ## Soft Skills Desenvolvidas
 
-#TODO
+Resiliência - neste projeto tive que me adaptar ao cenário sugerido pela FATEC de usar JAVA. É uma linguagem que não tinha dominio e para ser sincero que não seria uma opção para mim, mas à fim de contribuir da melhor forma para o time escolhi funções dentro da equipe para que os demais que tinham mais vivência e familiaridade com a linguagem pudessem brilhar.
 
 
 # Nemo (1º Semetre 2021)
