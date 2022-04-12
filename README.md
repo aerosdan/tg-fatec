@@ -4,7 +4,7 @@
  
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.
 Trabalho como desenvolvedor desde 2018 e atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do time que mantém e desenvolve o produto “DMApp” da empresa.
-Antes de trabalhar com T.I. tive a oportunidade de atuar em empresas excelentes em outras áreas como PCP, Projetos, Supply Chain e Co-packer, toda essa bagagem me faz diariamente ter uma visão mais além do que apenas programar, e sim buscar da melhor maneira agregar valor ao resolver um problema ou melhorar algo.
+Antes de trabalhar com T.I. tive a oportunidade de atuar em empresas excelentes em outras áreas como PCP, Projetos, Supply Chain e Co-packer, toda essa bagagem me faz diariamente ter uma visão além do que apenas programar, e sim buscar da melhor maneira agregar valor ao resolver um problema ou melhorar algo.
  
 ### **Contato**
 * [GIT Hub](https://github.com/aerosdan/)
@@ -42,7 +42,7 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
  
 ## **Tecnologias Utilizadas**
 
-**Python** - praticamente todos da equipe já tinham um conhecimento - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes - os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também poderiam se aprimorar de forma mais acelerada;
+**Python** - praticamente todos da equipe já tinham um conhecimento - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado uma vez que já contavam com um cerlo alicerce;
  
 **MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
  
@@ -52,8 +52,8 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
  
 ## **Contribuições Pessoais**
  
-**Desenvolvimento** - Nesse projeto contribui bastante no tangente à interações do bot com o usuário por e-mail e pelo Telegram.
-Foram desenvolvidas rotinas rotinas diferentes para notificações:
+**Desenvolvimento** - Nesse projeto atuei no desenvolimento das interações do bot com o usuário por e-mail e pelo Telegram.
+Foram desenvolvidas diferentes rotinas para enviar as notificações:
 * notificações automáticas e proativas - enviadas em momentos dinâmicos e oportunos para investimento;
 * interações reativas - executavam apenas sob demanda do usuário;
 * relatórios diários - visam informar o cliente do fechamento de um dia.
@@ -61,7 +61,7 @@ Essa gama de diferentes formas de interagir com a aplicação agregaram valor à
  
 ## **Hard Skills Desenvolvidas**
  
-**Conhecimento em Python** - Pude me aprofundar em recursos importantes na linguagem (que usei durante todos os outros projetos e servem de base até hoje no meu dia-a-dia no trabalho):
+**Conhecimento em Python** - Pude aprimorar meus conhecimentos em recursos importantes na linguagem. Essa experiência, além de me ajudar em todos os outros projetos, servem de base atualmente e contribui na minha rotina profissional:
 * Interação com Email - mime types; 
 * Interação com Bot Telegram - automatização do bot;   
 * Interação com MySQL através do Python - CRUD; 
@@ -69,8 +69,8 @@ Essa gama de diferentes formas de interagir com a aplicação agregaram valor à
  
 ## **Soft Skills Desenvolvidas**
  
-**Trabalho em Equipe** - tivemos várias dinâmicas aplicadas pelos Master que construiu uma equipe mais sinérgica e focada em resultado;
- **"Aprender a aprender"** - tivemos bastante contato com os Masters do 6º semestre que auxiliaram bastante em 'abrir horizontes' e introduzir novos conceitos e conhecimentos.
+**Trabalho em Equipe** - as dinâmicas aplicadas pelos Master contribuíram para o fortalecimento da equipe, tornando-a uma equipe sinérgica, assertiva, resolutiva e focada na qualidade dos resultados;
+ **"Aprender a aprender"** - tivemos bastante contato com os Masters do 6º semestre que auxiliaram e contribuíram com as trocas de experiências. Esse contato, promoveu a reflexão  da equipe e fortaleceu a construção do conhecimento com o aprendizado de novos conceitos. 
  
 # 🌉 Bridges (1º Semestre 2020) 🌉
 
