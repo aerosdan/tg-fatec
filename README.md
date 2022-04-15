@@ -7,8 +7,8 @@ Trabalho como desenvolvedor desde 2018 e atualmente trabalho como Desenvolvedor 
 Antes de trabalhar com T.I. tive a oportunidade de atuar em empresas excelentes em outras áreas como PCP, Projetos, Supply Chain e Co-packer, toda essa bagagem me faz diariamente ter uma visão além do que apenas programar, e sim buscar da melhor maneira agregar valor ao resolver um problema ou melhorar algo.
  
 ### **Contato**
-* [GIT Hub](https://github.com/aerosdan/)
-* [GIT Lab](https://gitlab.com/DNLMR)
+* [Github](https://github.com/aerosdan/)
+* [Gitlab](https://gitlab.com/DNLMR)
 * [LinkedIn](https://www.linkedin.com/in/daniel-delgado-274096194/)
 * E-mail: daniel.delgado.rocha@gmail.com
  
@@ -24,8 +24,8 @@ Antes de trabalhar com T.I. tive a oportunidade de atuar em empresas excelentes 
  
 # 🐉 Black Mamba (2º Semestre 2019) 🐉
  
-Parceiro acadêmico: FATEC 
-Aplicação: Web-bot 
+Parceiro acadêmico: FATEC  
+Aplicação: Web-bot  
 Repositório GIT: [Black Mamba](https://github.com/aerosdan/black_mamba)
  
 ## **Descrição do Projeto**
@@ -42,7 +42,7 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
  
 ## **Tecnologias Utilizadas**
 
-**Python** - praticamente todos da equipe já tinham um conhecimento - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado uma vez que já contavam com um cerlo alicerce;
+**Python** - praticamente todos da equipe já tinham um conhecimento - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado uma vez que já contavam com um certo alicerce;
  
 **MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
  
@@ -52,7 +52,7 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
  
 ## **Contribuições Pessoais**
  
-**Desenvolvimento** - Nesse projeto atuei no desenvolimento das interações do bot com o usuário por e-mail e pelo Telegram.
+**Desenvolvimento** - Nesse projeto atuei no desenvolvimento das interações do bot com o usuário por e-mail e pelo Telegram.
 Foram desenvolvidas diferentes rotinas para enviar as notificações:
 * notificações automáticas e proativas - enviadas em momentos dinâmicos e oportunos para investimento;
 * interações reativas - executavam apenas sob demanda do usuário;
@@ -96,27 +96,27 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 
 ## **Contribuições Pessoais**
 
-**Referência técnica DJANGO** - Após a definição de trabalhar com o Framework Django consegui me aprofundar bem em como a ferramenta funciona. De tal forma que mesmo com a equipe dividida em frentes (back/front) e eu não tendo muito conhecimento em front-end, consegui auxiliar todos os membros do time tecnicamente como um techlead.
+**Referência técnica DJANGO** - Após a definição de trabalhar com o Framework Django consegui me aprofundar bem no funcionamento da ferramenta. De tal forma que mesmo com a equipe dividida em frentes (back/front) e eu não tendo muito conhecimento em front-end, consegui auxiliar todos os membros do time tecnicamente;
 
-**Organização Pastas** - A estrutura de pastas do repositório e o entendimento da arquitetura MTV (model, template, view) do Framework foram aplicadas conforme documentação e aprimoradas conforme andamento do projeto.
+**Arquitetura** - A estrutura de pastas do repositório e o entendimento da arquitetura MTV (model, template, view) do Framework foram aplicadas conforme documentação e aprimoradas conforme andamento do projeto;
 
-**Modelagem de dados + Models (django)** - Primeiramente elaborei o modelo relacional junto à criação das tabelas "na mão" (DDL) para demonstração e testes fora da aplicação. Após testes e ajustes com uma versão mais 'definitiva', passei essa camada para dentro do framework, agregando tanto ao time de desenvolvimento (com as facilidades que o ORM do Django traz) quanto para manutenção da base de dados pela dinâmica de migrations.
+**Modelagem de dados + Models (django)** - Primeiramente elaborei o modelo relacional junto à criação das tabelas "na mão" (DDL) para demonstração e testes fora da aplicação. Após testes e ajustes com uma versão mais 'definitiva', passei essa camada para dentro do framework, agregando tanto ao time de desenvolvimento (com as facilidades que o ORM do Django traz) quanto para manutenção da base de dados pela dinâmica de migrations;
  
-**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Para na sequência construirmos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Pyton/Django usando toda a estrutura de herança que o framework permite.
+**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Para na sequência construirmos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Pyton/Django usando toda a estrutura de herança que o framework permite;
  
 **Views (django)** - As views do DJANGO são semelhantes aos Controllers da arquitetura MVC. Aqui estão as regras de negócio da aplicação e é onde determina o que será apresentado no front - destaco para "O QUE", e não "COMO', uma vez que a view está à nível de backend apenas disponibilizando a informação para o Front. Foram desenvolvidas funcionalidades CRUD para todas as entidades e cada uma delas linkadas a um endpoint diferente com seus respectivos forms para interação do usuário.
  
 ## **Hard Skills Desenvolvidas**
  
-**Modelagem de Banco de Dados** - criar, testar e explorar uma modelagem antes de programar foi muito importante nesse projeto. Mesmo assim alguns aspectos do projeto precisaram ser adaptados, estimulando a competência de adaptar e usar ferramentas auxiliares para manutenção do banco (oriunda do próprio Django);
+**Modelagem de Banco de Dados** - criar, testar e explorar uma modelagem antes de programar foi muito importante nesse projeto. Alguns aspectos do projeto precisaram ser adaptados e alterados conforme sua evolução, demandando e estimulando a adaptabilidade, usar ferramentas auxiliares para manutenção do banco (oriunda do próprio Django) foi essencial;
 
-**Framework DJANGO** - este projeto foi introdutório para mim nesse framework, pela posição que estava pude ver o poder da ferramenta e após o projeto me aprofundei ainda mais na questão de backend, tendo certa facilidade neste momento futuro pela base de API Rest e como é feita interação com o frontend obtida nesse projeto;
+**Framework DJANGO** - este projeto foi introdutório para mim nesse framework, pela posição que estava pude ver o poder da ferramenta e após o projeto me aprofundei ainda mais na questão de backend. Esse contato resultou em hoje eu ter uma conhecimento melhor em API Rest e como é feita interação com o frontend;
 
-**Dinâmica de Frontend** - tendo uma preferência pelo back-end desenvolver um pouco no front foi oportuno para mim pois desmistificou diversas dúvidas e questionamentos. Pude observar como a dinâmica de herança nos templates pode imprimir velocidade no desenvolvimento e manutenção do front.
+**Dinâmica de Frontend** - tendo uma preferência pelo back-end, desenvolver um pouco no front foi oportuno para mim pois desmistificou diversas dúvidas e questionamentos. Pude observar como a dinâmica de herança nos templates pode imprimir velocidade no desenvolvimento e manutenção do front.
  
 ## **Soft Skills Desenvolvidas**
  
-**Liderança** - pelo entusiasmo que fiquei em aprender o Framework pude muitas vezes 'puxar' o time para fazermos uma entrega melhor e mais aprimorada de forma similar, por estar por dentro do projeto como um todo, exerci a função como 'ponto de apoio' para o time no tangente à dúvidas e contribui de forma geral com ideias boas para o desenvolvimento;
+**Liderança** - a oportunidade de trabalhar e aprender o Framework foi motivacional para mim, com isso pude muitas vezes 'puxar' o time para fazermos uma entrega melhor e mais aprimorada. Por estar extremamente engajado no projeto pude também exercer a função de 'ponto de apoio' para o time no tangente à dúvidas (técnicas e de negócio), tendo contribui de forma geral com ideias boas para o desenvolvimento;
 
 **Trabalho em Equipe** - nessa função central pude aprender que uma call com 4 pessoas engajadas é infinitamente melhor do que apenas uma pessoa ou até duas programando, ao longo do projeto fui aprimorando técnicas para juntar a equipe em momentos importantes para tomar a decisão em conjunto, trazendo mais precisão nas soluções.
  
@@ -155,11 +155,11 @@ Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Mas
 
 **Modelagem de Banco de Dados** - criar, testar e explorar a modelagem;
  
-**Spring-boot** - pude ser introduzido ao framework e ver semelhanças e diferenças entre outras ferramentas utilizadas previamente.
+**Spring-boot** - pude ser introduzido ao framework, no início tive certa dificuldade em performar na ferramenta devido o 'choque de linguagem', mas desprendendo algum tempo de estudo, vendo alguns repositórios no git de códigos consolidados e recebendo uma ajuda dos outros membros em dúvidas mais pontuais, pude ver semelhanças e correspondências entre outras ferramentas utilizadas previamente. Com esses aspectos a curva de aprendizagem foi sendo mais facilitada.
 
 ## **Soft Skills Desenvolvidas**
 
-**Resiliência** - em um cenário onde a FATEC definiu para todos os grupos utilizarem JAVA, à fim de contribuir da melhor forma para o time escolhi funções dentro da equipe para que pudessemos aproveitar melhor a experiências de alguns membros que tinham mais vivência e familiaridade com a linguagem.
+**Resiliência** - a fim de contribuir da melhor forma para o time em um cenário onde a utilização do JAVA era obrigatória, escolhi funções dentro da equipe para que pudéssemos aproveitar melhor a experiências de alguns membros que tinham mais vivência e familiaridade com a linguagem.
  
 # 🐟 Nemo (1º Semestre 2021) 🐟
  
@@ -179,17 +179,17 @@ O Projeto NEMO visa entregar uma aplicação que resolva o problema de "match" e
  
 ## **Contribuições Pessoais**
  
-**Administração do Banco de Dados** - Neste projeto fiquei responsável pela Administração do Banco de Dados, tendo elaborado o modelo relacional inicial de nossas Bases, realizando adaptações com o desenvolver do projeto. Também desenvolvi de Triggers e Procedures que fazem a seleção de candidatos ao lançar uma vaga com requisitos, trazendo em "tempo real" uma lista de candidatos logo após cadastrar uma vaga.
+**Administração do Banco de Dados** - Neste projeto fiquei responsável pela Administração do Banco de Dados, tendo elaborado o modelo relacional inicial de nossas Bases, realizando adaptações com o desenvolver do projeto. Também desenvolvi Triggers e Procedures. Essas automações foram responsáveis por fazer a seleção de candidatos ao lançar uma vaga com requisitos, trazendo em "tempo real" a lista de candidatos logo após cadastrar uma vaga trazendo uma resposta praticamente instantânea para o usuário da aplicação.
  
 ## **Hard Skills Desenvolvidas**
  
-**PL/pgSQL** - neste projeto pude explorar opções interessantes de triggers e procedures no Postgre;
+**PL/pgSQL** - neste projeto pude explorar opções interessantes de triggers e procedures no Postgre, que me ajudaram a entender pontos positivos e negativos da ferramenta e como melhor utilizá-la no futuro;
  
 **PostGIS** - fui introduzido a esta ferramenta e pude me aprofundar ao longo do projeto para auxiliar a busca de candidatos para uma determinada vaga que solicitasse proximidade a empresa.
  
 ## **Soft Skills Desenvolvidas**
  
-**Comunicação** - como praticamente um DBA desenvolvi bem a comunicação com a equipe responsável por desenvolver no SpringBoot, a fim de deixá-los munidos de informações atualizada e precisas, além de estar disponível para auxiliar em eventuais problemas com dados no banco.
+**Comunicação** - como praticamente um DBA desenvolvi bem a comunicação com a equipe responsável por desenvolver no SpringBoot, a fim de deixá-los munidos de informações atualizadas e precisas, além de estar disponível para auxiliar em eventuais problemas com dados no banco.
  
 # 🐠 LMS Nemo (2º Semestre 2021) 🐠
  
@@ -211,13 +211,15 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
  
 ## **Contribuições Pessoais**
 
+**Decisão da ferramenta de ETL** - No início do projeto fizemos testes em ferramentas consolidadas no mercado para realizar o trabalho do ETL (Pentaho, Talend), porém estas opções iriam demandar uma curva de aprendizagem para masterizar e aplicar à nossa realidade. Portanto, decidimos partir para uma abordagem mais objetiva e que iria nos permitir AGILIDADE nas entregas e garantindo qualidade e assertividade nas mesmas, optando então por programar direto em Python para essa demanda;
+
 **ETL** - trabalhamos na ingestão de dados de forma a manter o DW de forma eficiente. Efetuando a extração dos dados do "sistema-fonte", transformando esses dados em um formato que possibilita serem analisados e por fim carregando os dados tratados em uma base de dados (DW).
  
 ## **Hard Skills Desenvolvidas**
  
-**Python** - aplicabilidade da linguagem para interações com MongoDB e transformação de dados;
+**Python** - aplicabilidade da linguagem para interações com MongoDB e transformação de dados, obtendo dinâmicas para esse processo que melhoram performance e exatidão;
  
-**MongoDB** - interações com o banco NoSQL.
+**MongoDB** - interações com o banco NoSQL, podendo conhecer os benefícios de um banco não relacional, mas podendo ver também em que eles poderiam não ser tão indicados.
  
 ## **Soft Skills Desenvolvidas**
  
