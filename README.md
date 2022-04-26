@@ -3,9 +3,9 @@
 ### **Sobre mim**
  
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.
-Trabalho como desenvolvedor desde 2018 e atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do time que mantém e desenvolve o produto “DMApp” da empresa.
-Antes de trabalhar com T.I. tive a oportunidade de atuar em empresas excelentes em outras áreas como PCP, Projetos, Supply Chain e Co-packer, toda essa bagagem me faz diariamente ter uma visão além do que apenas programar, e sim buscar da melhor maneira agregar valor ao resolver um problema ou melhorar algo.
- 
+Trabalho como desenvolvedor desde 2018, antes de trabalhar com T.I. tive a oportunidade de atuar em excelentes empresas na área de Engenharia de Produção, em funções de analista nos departamentos de PCP, Projetos, Supply Chain e Co-packer. Essa bagagem me faz diariamente ter uma visão e um comprometimento além do que "apenas programar/codar", buscando da melhor maneira agregar valor ao resolver um problema ou criar/melhorar algo.
+Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do time que mantém e desenvolve o produto [DMApp](https://play.google.com/store/apps/details?id=br.com.dmcard.contadigital).
+
 ### **Contato**
 * [Github](https://github.com/aerosdan/)
 * [Gitlab](https://gitlab.com/DNLMR)
@@ -32,21 +32,21 @@ Repositório GIT: [Black Mamba](https://github.com/aerosdan/black_mamba)
  
 O Black Mamba foi desenvolvido com a intenção de ser uma solução para um público com interesse em investir em ações, porém sem tempo para adquirir conhecimentos mais densos do assunto. Foi desenvolvido inteiramente em Python e para a versão de desenvolvimento fixamos o banco Inter como empresa a ser utilizada. A aplicação tem as seguintes features:
  
-* Obter histórico das ações no últimos 12 meses - é feita uma primeira 'carga' dos valores das ações à fim de ter um comparativo, essa carga é salva no banco de dados;
-* Web-scraping em 'tempo real' dos valores das ações - a aplicação monitora o valor das ações durante o dia e salvando em um banco de dados próprio;
+* Obter histórico das ações nos últimos 12 meses - é feita uma primeira 'carga' dos valores das ações à fim de ter um comparativo, essa carga é salva no banco de dados;
+* Web-scraping em 'tempo real' dos valores das ações - a aplicação monitora o valor das ações durante o dia e salva em um banco de dados próprio;
 * Cadastro de Usuário - o usuário se cadastra na aplicação através do Telegram para receber alertas automáticos do web-bot com dicas "venda a ação / compre a ação";
 * Análise de Dados + Notificações - O bot processará os dados obtidos das ações no web-scraping e notifica os usuários, por Telegram e e-mail, caso haja uma situação oportuna para venda/compra da ação;  
 * Atendimento automatizado - também é possível que o usuário interaja com o bot a fim de obter algumas informações que gostaria, como gráfico com os valores das ações e maior/menor valor da ação no dia;
               
-Essa solução ajudaria pessoas inexperientes em investimentos em ações que querem começar a investir, mas devido à complexidade da bolsa de valores é preciso reforçar que o core dessa aplicação foi montar o web-scraping (obtenção dos valores da ação em tempo real) juntamente com um web-bot que é tanto proativo (notificações de oportunidades) como reativo (interações automatizadas). O algoritmo de projeção dos valores da bolsa não foi o foco do projeto, tendo sido aplicada uma regra simplificada para confirmar eventos oportunos de investimento.
+Essa solução ajudaria pessoas inexperientes em investimentos em ações que querem começar a investir. Devido à complexidade da bolsa de valores é preciso reforçar que o 'core' dessa aplicação foi montar o web-scraping (obtenção dos valores da ação em tempo real) juntamente com um web-bot que é tanto proativo (notificações de oportunidades) como reativo (interações automatizadas) e que o algoritmo de projeção dos valores da bolsa não foi o foco, tendo sido aplicada uma regra simplificada para confirmar eventos oportunos de investimento.
  
 ## **Tecnologias Utilizadas**
 
-**Python** - praticamente todos da equipe já tinham um conhecimento - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado uma vez que já contavam com um certo alicerce;
+**Python** - praticamente todos da equipe tinham um conhecimento prévio - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado para si mesmos, uma vez que já contavam com um certo alicerce;
  
 **MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
  
-**Lib Selenium** - o pacote Selenium foi usado para automatizar a interação da aplicação com o navegador da web a partir do Python, especificamente para acessar o site onde os dados da ações ficam;
+**Lib Selenium** - o pacote Selenium foi usado para automatizar a interação da aplicação com o navegador da web a partir do Python, especificamente para acessar o site onde os dados das ações ficam;
  
 **Lib Beautiful Soup** - o pacote Beautiful Soup foi usado para extrair dados de arquivos HTML e XML, sendo possível através dele navegar e pesquisar pelas informações disponibilizadas na origem dos dados que fizemos a coleta de dados.
  
@@ -55,7 +55,7 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
 **Desenvolvimento** - Nesse projeto atuei no desenvolvimento das interações do bot com o usuário por e-mail e pelo Telegram.
 Foram desenvolvidas diferentes rotinas para enviar as notificações:
 * notificações automáticas e proativas - enviadas em momentos dinâmicos e oportunos para investimento;
-* interações reativas - executavam apenas sob demanda do usuário;
+* interações reativas - executam apenas sob demanda do usuário;
 * relatórios diários - visam informar o cliente do fechamento de um dia.
 Essa gama de diferentes formas de interagir com a aplicação agregaram valor à experiência do usuário pois possibilita que cada um personalize e utilize a ferramenta da forma que mais lhe agrada.
  
@@ -80,7 +80,7 @@ Repositório GIT: [Bridges](https://github.com/aerosdan/bridges)
 
 ## **Descrição do Projeto**
 
-O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu ambiente de desenvolvimento (pessoas, projetos, tarefas) e por meio de uma interface prática e interativa permitisse que o usuário consiga elaborar e analisar cenários referente ao planejamento de seus projetos e horas disponíveis de desenvolvimento. A aplicação tem as seguintes features:
+O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu ambiente de desenvolvimento (pessoas, projetos, tarefas) e por meio de uma interface prática e interativa permite que o usuário consiga elaborar e analisar cenários referentes ao planejamento de seus projetos e horas disponíveis de desenvolvimento. A aplicação tem as seguintes features:
 * Cadastro de Funcionários - permitir o usuário cadastrar Funcionários e carga horária de trabalho de cada um deles; 
 * Cadastro de Projetos e Tarefas - permitir cadastrar Projetos (nome do projeto/cliente) e Tarefas do projeto - cada uma com suas respectivas descrições e tempo estimado para conclusão; 
 * Fazer relações entre as entidades - atribuir tarefas para um projeto / funcionários para uma tarefa;
@@ -92,7 +92,7 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
  
 **MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
  
-**Django** - o framework possibilitaria termos mais agilidade em desenvolver em conjunto de uma forma simplificada (centralizando front e backend na mesma aplicação com facilidade), além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos dúvidas e materiais de aprendizagem.
+**Django** - o framework proporcionou à equipe agilidade em desenvolver em conjunto de uma forma simplificada (centralizando front e backend na mesma aplicação com facilidade), além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos dúvidas e materiais de aprendizagem.
 
 ## **Contribuições Pessoais**
 
@@ -102,7 +102,7 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 
 **Modelagem de dados + Models (django)** - Primeiramente elaborei o modelo relacional junto à criação das tabelas "na mão" (DDL) para demonstração e testes fora da aplicação. Após testes e ajustes com uma versão mais 'definitiva', passei essa camada para dentro do framework, agregando tanto ao time de desenvolvimento (com as facilidades que o ORM do Django traz) quanto para manutenção da base de dados pela dinâmica de migrations;
  
-**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Para na sequência construirmos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Pyton/Django usando toda a estrutura de herança que o framework permite;
+**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Na sequência Construímos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Pyton/Django usando toda a estrutura de herança que o framework permite;
  
 **Views (django)** - As views do DJANGO são semelhantes aos Controllers da arquitetura MVC. Aqui estão as regras de negócio da aplicação e é onde determina o que será apresentado no front - destaco para "O QUE", e não "COMO', uma vez que a view está à nível de backend apenas disponibilizando a informação para o Front. Foram desenvolvidas funcionalidades CRUD para todas as entidades e cada uma delas linkadas a um endpoint diferente com seus respectivos forms para interação do usuário.
  
@@ -110,13 +110,13 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
  
 **Modelagem de Banco de Dados** - criar, testar e explorar uma modelagem antes de programar foi muito importante nesse projeto. Alguns aspectos do projeto precisaram ser adaptados e alterados conforme sua evolução, demandando e estimulando a adaptabilidade, usar ferramentas auxiliares para manutenção do banco (oriunda do próprio Django) foi essencial;
 
-**Framework DJANGO** - este projeto foi introdutório para mim nesse framework, pela posição que estava pude ver o poder da ferramenta e após o projeto me aprofundei ainda mais na questão de backend. Esse contato resultou em hoje eu ter uma conhecimento melhor em API Rest e como é feita interação com o frontend;
+**Framework DJANGO** - este projeto foi introdutório para mim nesse framework, pela posição que estava pude ver o poder da ferramenta e após o projeto me aprofundei ainda mais na questão de backend. Esse contato resultou em hoje eu ter um conhecimento melhor em API Rest e como é feita interação com o frontend;
 
 **Dinâmica de Frontend** - tendo uma preferência pelo back-end, desenvolver um pouco no front foi oportuno para mim pois desmistificou diversas dúvidas e questionamentos. Pude observar como a dinâmica de herança nos templates pode imprimir velocidade no desenvolvimento e manutenção do front.
  
 ## **Soft Skills Desenvolvidas**
  
-**Liderança** - a oportunidade de trabalhar e aprender o Framework foi motivacional para mim, com isso pude muitas vezes 'puxar' o time para fazermos uma entrega melhor e mais aprimorada. Por estar extremamente engajado no projeto pude também exercer a função de 'ponto de apoio' para o time no tangente à dúvidas (técnicas e de negócio), tendo contribui de forma geral com ideias boas para o desenvolvimento;
+**Liderança** - a oportunidade de trabalhar e aprender o Framework foi motivacional para mim, com isso pude muitas vezes 'puxar' o time para fazermos uma entrega melhor e mais aprimorada. Por estar extremamente engajado no projeto pude também exercer a função de 'ponto de apoio' para o time no tangente à dúvidas (técnicas e de negócio), tendo contribuído de forma geral com ideias boas para o desenvolvimento;
 
 **Trabalho em Equipe** - nessa função central pude aprender que uma call com 4 pessoas engajadas é infinitamente melhor do que apenas uma pessoa ou até duas programando, ao longo do projeto fui aprimorando técnicas para juntar a equipe em momentos importantes para tomar a decisão em conjunto, trazendo mais precisão nas soluções.
  
@@ -147,7 +147,7 @@ O Projeto VALCODE tem a intenção de introduzir o usuário - que na maioria dos
  
 Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Master, orquestrando o time para termos boas entregas no desenrolar do projeto.
  
-**Base de Dados** - Fiquei responsável pelo database inicial direto no SQL e gerei dados mockados para o restante da equipe utilizar até termos um dataset disponibilizado pelo cliente. Com o andamento do projeto fomos controlando o banco através do Spring-boot (model) e adicionando as funcionalidade de interação nessa camada da aplicação;
+**Base de Dados** - Fiquei responsável pelo database inicial direto no SQL e gerei dados mockados para o restante da equipe utilizar até termos um dataset disponibilizado pelo cliente. Com o andamento do projeto fomos controlando o banco através do Spring-boot (model) e adicionando as funcionalidades de interação nessa camada da aplicação;
 
 **SCRUM Master** - Consegui contribuir bem com ideias para construir o escopo geral do produto final e orquestrar bem o time em questão de delegar funções e auxiliar em casos de problemas.
 
