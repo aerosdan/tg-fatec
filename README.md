@@ -2,6 +2,8 @@
  
 ### **Sobre mim**
  
+
+<img width="250" style="margin:0px 25px" src="./rsc/eu.jpeg" align="left">
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.  
 Trabalho como desenvolvedor desde 2018, antes de trabalhar com T.I. tive a oportunidade de atuar em excelentes empresas na área de Engenharia de Produção, em funções de analista nos departamentos de PCP, Projetos, Supply Chain e Co-packer. Essa bagagem me faz diariamente ter uma visão e um comprometimento além do que "apenas programar/codar", buscando da melhor maneira agregar valor ao resolver um problema ou criar/melhorar algo.  
 Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do time que mantém e desenvolve o produto [DMApp](https://play.google.com/store/apps/details?id=br.com.dmcard.contadigital).
