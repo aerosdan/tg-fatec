@@ -1,9 +1,31 @@
 # Portfólio de Projetos Integradores FATEC-SJC - Daniel Delgado
+
+<p align="center"> 
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring-boot">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
+  </a>
+</p>
  
 ### **Sobre mim**
  
 
-<img width="250" style="margin:0px 25px" src="./rsc/eu.jpeg" align="left">
+<img width="300" src="./rsc/eu.jpeg" align="left">
+
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.  
 Trabalho como desenvolvedor desde 2018, antes de trabalhar com T.I. tive a oportunidade de atuar em excelentes empresas na área de Engenharia de Produção, em funções de analista nos departamentos de PCP, Projetos, Supply Chain e Co-packer. Essa bagagem me faz diariamente ter uma visão e um comprometimento além do que "apenas programar/codar", buscando da melhor maneira agregar valor ao resolver um problema ou criar/melhorar algo.  
 Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do time que mantém e desenvolve o produto [DMApp](https://play.google.com/store/apps/details?id=br.com.dmcard.contadigital).
@@ -19,11 +41,39 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
 * Golang 
 * JS 
 * API Rest 
-* MySQL, Postgre, Oracle, MS SQL 
-* Mongo DB 
- 
+* MySQL, Postgre, Oracle, MS SQL, Mongo DB 
+---
 # **PROJETOS DESENVOLVIDOS**
- 
+
+<p align="center">
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Intro">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Register adopt">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Chat">
+  </kbd>
+</p>
+<p align="center">
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Intro">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Register adopt">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Chat">
+  </kbd>
+</p>
+
+---
+
 # 🐉 Black Mamba (2º Semestre 2019) 🐉
  
 Parceiro acadêmico: FATEC  
