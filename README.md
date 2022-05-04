@@ -37,7 +37,7 @@
 ### **Sobre mim**
  
 
-<img width="350" src="./rsc/eu.jpeg" align="left">
+<img width="370" src="./rsc/eu.jpeg" align="left">
 
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.  
 Trabalho como desenvolvedor desde 2018, antes de trabalhar com T.I. tive a oportunidade de atuar em excelentes empresas na área de Engenharia de Produção, em funções de analista nos departamentos de PCP, Projetos, Supply Chain e Co-packer. Essa bagagem me faz diariamente ter uma visão e um comprometimento além do que "apenas programar/codar", buscando da melhor maneira agregar valor ao resolver um problema ou criar/melhorar algo.  
@@ -60,28 +60,31 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
 
 <p align="center">
   <kbd><a href="https://github.com/aerosdan/tg-fatec#-black-mamba-">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/blackmamba_logo.png" alt="blackmamba_logo">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/blackmamba_logo.png" alt="blackmamba_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><a href="https://github.com/aerosdan/tg-fatec#">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/bridges_logo.png" alt="bridges_logo">
-  </a></kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/valcode_logo.png" alt="valcode_logo">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/bridges_logo.png" alt="bridges_logo">
   </a></kbd>
 </p>
+
 <p align="center">
   <kbd><a href="https://github.com/aerosdan/tg-fatec#">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/nemo_logo.png" alt="nemo_logo">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/valcode_logo.png" alt="valcode_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><a href="https://github.com/aerosdan/tg-fatec#">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/nlms_logo.png" alt="nlms_logo">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/nemo_logo.png" alt="nemo_logo">
+  </a></kbd>
+</p>
+
+<p align="center">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/nlms_logo.png" alt="nlms_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><a href="https://github.com/aerosdan/tg-fatec#">
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/6sm_logo.png" alt="6sm_logo">
+    <img width="350" style="border-radius: 5px" height="450" src="./rsc/6sm_logo.png" alt="6sm_logo">
   </a></kbd>
 </p>
 
