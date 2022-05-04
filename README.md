@@ -63,27 +63,27 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/blackmamba_logo.png" alt="blackmamba_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-bridges-">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/bridges_logo.png" alt="bridges_logo">
   </a></kbd>
 </p>
 
 <p align="center">
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#%EF%B8%8F-valcode-%EF%B8%8F">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/valcode_logo.png" alt="valcode_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-nemo-">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/nemo_logo.png" alt="nemo_logo">
   </a></kbd>
 </p>
 
 <p align="center">
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-lms-nemo-">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/nlms_logo.png" alt="nlms_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-data-science-project-">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/6sm_logo.png" alt="6sm_logo">
   </a></kbd>
 </p>
@@ -319,7 +319,7 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
 
 ---
 
-# 🐠 Data Science Project 🐠
+# 🇧🇷 Data Science Project 🇧🇷
  
 Parceiro acadêmico: NESS  
 Aplicação: LMS com Chat  
