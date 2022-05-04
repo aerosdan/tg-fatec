@@ -46,39 +46,41 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
 # **PROJETOS DESENVOLVIDOS**
 
 <p align="center">
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Intro">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/blackmamba_logo.png" alt="blackmamba_logo">
+  </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Register adopt">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/bridges_logo.png" alt="bridges_logo">
+  </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Chat">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/valcode_logo.png" alt="valcode_logo">
+  </a></kbd>
 </p>
 <p align="center">
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Intro">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/nemo_logo.png" alt="nemo_logo">
+  </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Register adopt">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/nlms_logo.png" alt="nlms_logo">
+  </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="./rsc/eu.jpeg" alt="Chat">
-  </kbd>
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+    <img width="250" style="border-radius: 5px" height="450" src="./rsc/6sm_logo.png" alt="6sm_logo">
+  </a></kbd>
 </p>
 
 ---
 
-# 🐉 Black Mamba (2º Semestre 2019) 🐉
- 
+# 🐉 Black Mamba 🐉
+  
+
 Parceiro acadêmico: FATEC  
 Aplicação: Web-bot  
-Repositório GIT: [Black Mamba](https://github.com/aerosdan/black_mamba)
+Repositório GIT: [Black Mamba](https://github.com/aerosdan/black_mamba)  
+Período de desenvolvimento: 2º Semestre 2019
  
 ## **Descrição do Projeto**
  
@@ -123,12 +125,17 @@ Essa gama de diferentes formas de interagir com a aplicação agregaram valor à
  
 **Trabalho em Equipe** - as dinâmicas aplicadas pelos Master contribuíram para o fortalecimento da equipe, tornando-a uma equipe sinérgica, assertiva, resolutiva e focada na qualidade dos resultados;
  **"Aprender a aprender"** - tivemos bastante contato com os Masters do 6º semestre que auxiliaram e contribuíram com as trocas de experiências. Esse contato, promoveu a reflexão  da equipe e fortaleceu a construção do conhecimento com o aprendizado de novos conceitos. 
- 
-# 🌉 Bridges (1º Semestre 2020) 🌉
+
+ </br>
+
+---
+
+# 🌉 Bridges 🌉
 
 Parceiro acadêmico: Necto  
 Aplicação: Plataforma para planejamento de tarefas no dia-a-dia (Gráfico GANTT)   
-Repositório GIT: [Bridges](https://github.com/aerosdan/bridges)
+Repositório GIT: [Bridges](https://github.com/aerosdan/bridges)  
+Período de desenvolvimento: 1º Semestre 2020
 
 ## **Descrição do Projeto**
 
@@ -171,12 +178,17 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 **Liderança** - a oportunidade de trabalhar e aprender o Framework foi motivacional para mim, com isso pude muitas vezes 'puxar' o time para fazermos uma entrega melhor e mais aprimorada. Por estar extremamente engajado no projeto pude também exercer a função de 'ponto de apoio' para o time no tangente à dúvidas (técnicas e de negócio), tendo contribuído de forma geral com ideias boas para o desenvolvimento;
 
 **Trabalho em Equipe** - nessa função central pude aprender que uma call com 4 pessoas engajadas é infinitamente melhor do que apenas uma pessoa ou até duas programando, ao longo do projeto fui aprimorando técnicas para juntar a equipe em momentos importantes para tomar a decisão em conjunto, trazendo mais precisão nas soluções.
- 
-# ⚔️ Valcode (2º Semestre 2020) ⚔️
+
+ </br>
+
+---
+
+# ⚔️ Valcode ⚔️
 Parceiro acadêmico: SPC  
 Aplicação: Plataforma de interação de um usuário final (PF) com informações tangente à seu Score  
-Repositório GIT: [Valcode](https://github.com/aerosdan/valcode)
- 
+Repositório GIT: [Valcode](https://github.com/aerosdan/valcode)  
+Período de desenvolvimento: 2º Semestre 2020
+
 ## **Descrição do Projeto**
  
 O Projeto VALCODE tem a intenção de introduzir o usuário - que na maioria dos casos é uma PF - à dinâmica de Score. Apresentando por meio de uma aplicação WEB como está a saúde do seu score assim como os motivos para tal status e  apresentando dicas de como poderia melhorar seu score e até mesmo atuar em outras frentes - como investimentos em ações - caso seu score esteja com uma boa pontuação. O projeto possui as seguintes features:
@@ -212,12 +224,17 @@ Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Mas
 ## **Soft Skills Desenvolvidas**
 
 **Resiliência** - a fim de contribuir da melhor forma para o time em um cenário onde a utilização do JAVA era obrigatória, escolhi funções dentro da equipe para que pudéssemos aproveitar melhor a experiências de alguns membros que tinham mais vivência e familiaridade com a linguagem.
- 
-# 🐟 Nemo (1º Semestre 2021) 🐟
+
+ </br>
+
+---
+
+# 🐟 Nemo 🐟
  
 Parceiro acadêmico: GSW  
 Aplicação: Plataforma para uso de uma empresa para realizar match entre uma vaga de trabalho com requisitos x candidatos  
-Repositório GIT: [Nemo](https://github.com/aerosdan/nemo)
+Repositório GIT: [Nemo](https://github.com/aerosdan/nemo)  
+Período de desenvolvimento: 1º Semestre 2021
  
 ## **Descrição do Projeto**
  
@@ -242,12 +259,17 @@ O Projeto NEMO visa entregar uma aplicação que resolva o problema de "match" e
 ## **Soft Skills Desenvolvidas**
  
 **Comunicação** - como praticamente um DBA desenvolvi bem a comunicação com a equipe responsável por desenvolver no SpringBoot, a fim de deixá-los munidos de informações atualizadas e precisas, além de estar disponível para auxiliar em eventuais problemas com dados no banco.
- 
-# 🐠 LMS Nemo (2º Semestre 2021) 🐠
+
+ </br>
+
+---
+
+# 🐠 LMS Nemo 🐠
  
 Parceiro acadêmico: NESS  
 Aplicação: LMS com Chat  
-Repositório GIT: [LMS Nemo](https://github.com/aerosdan/nemo-lms)
+Repositório GIT: [LMS Nemo](https://github.com/aerosdan/nemo-lms)  
+Período de desenvolvimento: 2º Semestre 2021
  
 ## **Descrição do Projeto**
  
@@ -276,3 +298,14 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
 ## **Soft Skills Desenvolvidas**
  
 **Inteligência emocional** - com um ano de pandemia e perto do final do ano o time estava notavelmente esgotado física e psicologicamente, neste projeto foi importante saber lidar em uma situação anti-produtiva para conseguir entregar algo de valor, lidando com diferentes timings de entusiasmos.
+
+ </br>
+
+---
+
+# 🐠 Data Science Project 🐠
+ 
+Parceiro acadêmico: NESS  
+Aplicação: LMS com Chat  
+Repositório GIT: [LMS Nemo](https://github.com/aerosdan/nemo-lms)  
+Período de desenvolvimento: 2º Semestre 2021
