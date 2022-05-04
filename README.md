@@ -1,5 +1,6 @@
-# Portfólio de Projetos Integradores FATEC-SJC - Daniel Delgado
-
+<p align="center">
+<h1> Portfólio de Projetos Integradores FATEC-SJC - Daniel Delgado </h1>
+</p>
 <p align="center"> 
   <a>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -19,12 +20,24 @@
    <a>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
   </a>
+   <a>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
 </p>
  
 ### **Sobre mim**
  
 
-<img width="300" src="./rsc/eu.jpeg" align="left">
+<img width="350" src="./rsc/eu.jpeg" align="left">
 
 Meu nome é Daniel Delgado Rocha Santos da Silva, sou formado em Engenharia de Produção pela ETEP Faculdades-SJC e curso Banco de Dados na FATEC-SJC.  
 Trabalho como desenvolvedor desde 2018, antes de trabalhar com T.I. tive a oportunidade de atuar em excelentes empresas na área de Engenharia de Produção, em funções de analista nos departamentos de PCP, Projetos, Supply Chain e Co-packer. Essa bagagem me faz diariamente ter uma visão e um comprometimento além do que "apenas programar/codar", buscando da melhor maneira agregar valor ao resolver um problema ou criar/melhorar algo.  
@@ -46,7 +59,7 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
 # **PROJETOS DESENVOLVIDOS**
 
 <p align="center">
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-black-mamba-">
     <img width="250" style="border-radius: 5px" height="450" src="./rsc/blackmamba_logo.png" alt="blackmamba_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
