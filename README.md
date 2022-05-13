@@ -92,6 +92,17 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
 
 # 🐉 Black Mamba 🐉
   
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  </a>
+</p>
 
 Parceiro acadêmico: FATEC  
 Aplicação: Web-bot  
@@ -148,6 +159,18 @@ Essa gama de diferentes formas de interagir com a aplicação agregaram valor à
 
 # 🌉 Bridges 🌉
 
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+</p>
+
 Parceiro acadêmico: Necto  
 Aplicação: Plataforma para planejamento de tarefas no dia-a-dia (Gráfico GANTT)   
 Repositório GIT: [Bridges](https://github.com/aerosdan/bridges)  
@@ -177,7 +200,7 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 
 **Modelagem de dados + Models (django)** - Primeiramente elaborei o modelo relacional junto à criação das tabelas "na mão" (DDL) para demonstração e testes fora da aplicação. Após testes e ajustes com uma versão mais 'definitiva', passei essa camada para dentro do framework, agregando tanto ao time de desenvolvimento (com as facilidades que o ORM do Django traz) quanto para manutenção da base de dados pela dinâmica de migrations;
  
-**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Na sequência Construímos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Pyton/Django usando toda a estrutura de herança que o framework permite;
+**Templates (django)** - De forma parecida com os models fizemos as views primeiramente em Wireframe: esboçando como ficariam as telas. Na sequência Construímos fora do framework (em html/css/js) uma versão mais detalhada do front. Finalmente fizemos a conversão do front para o Python/Django usando toda a estrutura de herança que o framework permite;
  
 **Views (django)** - As views do DJANGO são semelhantes aos Controllers da arquitetura MVC. Aqui estão as regras de negócio da aplicação e é onde determina o que será apresentado no front - destaco para "O QUE", e não "COMO', uma vez que a view está à nível de backend apenas disponibilizando a informação para o Front. Foram desenvolvidas funcionalidades CRUD para todas as entidades e cada uma delas linkadas a um endpoint diferente com seus respectivos forms para interação do usuário.
  
@@ -200,10 +223,23 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 ---
 
 # ⚔️ Valcode ⚔️
+
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring-boot">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  </a>
+</p>
+
 Parceiro acadêmico: SPC  
 Aplicação: Plataforma de interação de um usuário final (PF) com informações tangente à seu Score  
 Repositório GIT: [Valcode](https://github.com/aerosdan/valcode)  
-Período de desenvolvimento: 2º Semestre 2020
+Período de desenvolvimento: 2º Semestre 2020  
 
 ## **Descrição do Projeto**
  
@@ -229,7 +265,7 @@ Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Mas
  
 **Base de Dados** - Fiquei responsável pelo database inicial direto no SQL e gerei dados mockados para o restante da equipe utilizar até termos um dataset disponibilizado pelo cliente. Com o andamento do projeto fomos controlando o banco através do Spring-boot (model) e adicionando as funcionalidades de interação nessa camada da aplicação;
 
-**SCRUM Master** - Consegui contribuir bem com ideias para construir o escopo geral do produto final e orquestrar bem o time em questão de delegar funções e auxiliar em casos de problemas.
+**SCRUM Master** - Consegui contribuir bem com ideias para construir o escopo do produto final assim como manter o foco do time nestes objetivos iniciais ao longo do projeto. Também apoiei o time de desenvolvimento nas definições dos focos (funções) que cada integrante teria e contribuindo em casos de problemas técnicos (debugs).
 
 ## **Hard Skills Desenvolvidas**
 
@@ -246,6 +282,18 @@ Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Mas
 ---
 
 # 🐟 Nemo 🐟
+
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring-boot">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  </a>
+</p>
  
 Parceiro acadêmico: GSW  
 Aplicação: Plataforma para uso de uma empresa para realizar match entre uma vaga de trabalho com requisitos x candidatos  
@@ -281,6 +329,15 @@ O Projeto NEMO visa entregar uma aplicação que resolva o problema de "match" e
 ---
 
 # 🐠 LMS Nemo 🐠
+
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
+  </a>
+</p>
  
 Parceiro acadêmico: NESS  
 Aplicação: LMS com Chat  
@@ -307,12 +364,14 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
  
 ## **Hard Skills Desenvolvidas**
  
-**Python** - aplicabilidade da linguagem para interações com MongoDB e transformação de dados, obtendo dinâmicas para esse processo que melhoram performance e exatidão;
+**Python** - aplicabilidade da linguagem para interações com MongoDB e transformação de dados, obtendo dinâmicas para esse processo que melhoram performance e exatidão. A conversão e manipulação de dados assim como criar mecanismos para 'converter' dados de uma base para outra de forma a garantir uma certa unicidade dos dados foram focos que permitiram um aprendizado interessante;  
  
-**MongoDB** - interações com o banco NoSQL, podendo conhecer os benefícios de um banco não relacional, mas podendo ver também em que eles poderiam não ser tão indicados.
+**MongoDB** - interações com o banco NoSQL, podendo conhecer os benefícios de um banco não relacional, mas podendo ver também em que eles poderiam não ser tão indicados;
  
 ## **Soft Skills Desenvolvidas**
  
+**Comunicação** - a tarefa de construir o ETL exigiu que fosse feitos diversos alinhamentos tanto com a área do DW quanto com a área responsável pelos dados de entrada (dados mockados) de forma a garantir um resultado final otimizado e dentro dos requisitos;  
+  
 **Inteligência emocional** - com um ano de pandemia e perto do final do ano o time estava notavelmente esgotado física e psicologicamente, neste projeto foi importante saber lidar em uma situação anti-produtiva para conseguir entregar algo de valor, lidando com diferentes timings de entusiasmos.
 
  </br>
@@ -320,6 +379,15 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
 ---
 
 # 🇧🇷 Data Science Project 🇧🇷
+
+<p align="left"> 
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
+</p>
  
 Parceiro acadêmico: NESS  
 Aplicação: LMS com Chat  
