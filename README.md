@@ -83,7 +83,7 @@ Atualmente trabalho como Desenvolvedor Backend na DMCard, onde sou membro do tim
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/nlms_logo.png" alt="nlms_logo">
   </a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://github.com/aerosdan/tg-fatec#-data-science-project-">
+  <kbd><a href="https://github.com/aerosdan/tg-fatec#-data-analysis-project-">
     <img width="350" style="border-radius: 5px" height="450" src="./rsc/6sm_logo.png" alt="6sm_logo">
   </a></kbd>
 </p>
@@ -378,7 +378,7 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
 
 ---
 
-# 🇧🇷 Data Science Project 🇧🇷
+# 🇧🇷 Data Analysis Project 🇧🇷
 
 <p align="left"> 
   <a>
@@ -389,7 +389,45 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
   </a>
 </p>
  
-Parceiro acadêmico: NESS  
-Aplicação: LMS com Chat  
-Repositório GIT: [LMS Nemo](https://github.com/aerosdan/nemo-lms)  
-Período de desenvolvimento: 2º Semestre 2021
+Parceiro acadêmico: Projeto desenvolvido na matéria Projeto de Banco de Dados Não Estruturados do professor Fernando Masanori
+Aplicação: Análise de Dados Eleitorais
+Repositório GIT: [Análise de Dados](https://github.com/aerosdan/data-analysis)  
+Período de desenvolvimento: 1º Semestre 2022  
+
+## **Descrição do Projeto**
+ 
+O projeto tem por objetivo proporcionar à um Telejornal da região do Vale do Paraíba uma análise de dados com a exibição de estatísticas do eleitorado localizado dentro de sua cobertura no Estado de São Paulo. As análises deveriam mapear características do eleitorado, como estado civil, escolaridade e faixa etária, informações sobre renda da cidade/região e evolução na quantidade de eleitores, tanto no âmbito municipal (de cada cidade) quanto macro-regiões, como o Vale do Paraíba.
+ 
+## **Tecnologias Utilizadas**
+ 
+**Python/Jupyter** - O uso do Jupyter Notebook possibilita desenvolver a solução de forma mais ludicas, uma vez que através dos blocos de texto podemos explicar o contexto da análise assim como o objetivo do nosso projeto, o conhecimento que está sendo extraído dos dados e as conclusões, ou seja, as possíveis soluções para o problema que estamos tentando resolver.
+
+**Pandas** - lib utilizada para manusear os dados, combinando recursos de manipulação dos dados e funcionalidades sofisticada para facilitar todas as operações com os dados (execução de agregações, seleciona subconjuntos de dados, etc.);
+
+**Matplotlib** - biblioteca Python utilizada para produzir gráficos.
+
+## **Contribuições Pessoais**
+
+**Desenvolvimento da análise** - #TODO
+
+**Checklist arquivos de dados** - os dados utilizados neste projeto precisam ser obtidos de forma manual, no caso através de plataformas do governo brasileiro (TSE/IBGE). Com a finalidade de tornar mais facil compreender se temos tudo pronto para rodar o projeto, foi criado um 'checkpoint' no notebook que valida se todos os arquivos necessarios estão presentes no repositório. Com isso evitamos quebrar analises ou até mesmo ter analises imprecisas de evolução por falta de atenção à estes requisitos do projeto;
+
+**Funções multiuso** - #TODO
+
+**Melhorias nos gráficos de estátistica** - no inicio do projeto usei diversos graficos de pizza envolvendo porcentagens para demonstrar alguns comparativos retirados dos dados, porém ao longo do projeto fiz adaptações para os comparativos fossem apresentados em cima das quantidades envolvidas, de forma à proporcionar analises precisas e fáceis comparar. O grafico de pizza envolvia alguns ponto negativos que foram eliminados ao trocar por um outro tipo de grafico, a quantidade representada por fatias não é tão facil de compreender para as pessoas em geral e existia dificuldade em mostrar categorias com pequenas porcentagens.
+ 
+**Exportação das análises** - #TODO
+
+## **Hard Skills Desenvolvidas**
+ 
+**Python para Análise de Dados** - #TODO
+  
+## **Soft Skills Desenvolvidas**
+ 
+**Organização** - este projeto demandou uma organização do ambiente de desenvolvimento como um todo para que o tempo fosse bem aproveitado.Desde organização das atividades até como organizar links úteis com as informações cruciais para o desenvolvimento do projeto foram execenssiais para trabalhar de forma mais rápida e eficaz e diminuir a suscetibilidade aos erros ou falta de fixação de conhecimento;
+  
+**Autogerenciamento** - com o intuito de ser mais produtivo foi necessario autogerenciar meu tempo para desenvolver o projeto de forma eficiente sem deixar outras frentes do próprio curso para tras. Para isso criei uma agenda que evoluiu conforme o projeto: primeiramente o tempo foi dedicado ao estudo para me habiltar à mexer com as ferramentas propostas no projeto (jupyter, pandas), na sequência foi necessario entender os dados que estaria usando para assim ter mais facilidade de desenvolver o projeto e por fim tempo realmente desenvolvendo e aprendendo sob demanda.
+
+ </br>
+
+---
