@@ -378,7 +378,7 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
 
 ---
 
-# 🇧🇷 Data Analysis Project 🇧🇷
+# 🔎 Data Analysis Project 🔎
 
 <p align="left"> 
   <a>
