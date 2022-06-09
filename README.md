@@ -389,45 +389,47 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
   </a>
 </p>
  
-Parceiro acadêmico: Projeto desenvolvido na matéria Projeto de Banco de Dados Não Estruturados do professor Fernando Masanori
-Aplicação: Análise de Dados Eleitorais
+Parceiro acadêmico: Projeto desenvolvido na matéria "Projeto de Banco de Dados Não Estruturados" do professor Fernando Masanori  
+Aplicação: Análise de Dados Eleitorais (Brasil)  
 Repositório GIT: [Análise de Dados](https://github.com/aerosdan/data-analysis)  
 Período de desenvolvimento: 1º Semestre 2022  
-
+ 
 ## **Descrição do Projeto**
  
-O projeto tem por objetivo proporcionar à um Telejornal da região do Vale do Paraíba uma análise de dados com a exibição de estatísticas do eleitorado localizado dentro de sua cobertura no Estado de São Paulo. As análises deveriam mapear características do eleitorado, como estado civil, escolaridade e faixa etária, informações sobre renda da cidade/região e evolução na quantidade de eleitores, tanto no âmbito municipal (de cada cidade) quanto macro-regiões, como o Vale do Paraíba.
+O projeto tem por objetivo proporcionar a um Telejornal da região do Vale do Paraíba uma análise de dados com a exibição de estatísticas do eleitorado localizado dentro de sua cobertura no Estado de São Paulo. As análises deveriam mapear características do eleitorado, como estado civil, escolaridade e faixa etária, informações sobre renda da cidade/região e evolução na quantidade de eleitores, tanto no âmbito municipal (de cada cidade) quanto nas macro-regiões, como o Vale do Paraíba.
  
 ## **Tecnologias Utilizadas**
  
-**Python/Jupyter** - O uso do Jupyter Notebook possibilita desenvolver a solução de forma mais ludicas, uma vez que através dos blocos de texto podemos explicar o contexto da análise assim como o objetivo do nosso projeto, o conhecimento que está sendo extraído dos dados e as conclusões, ou seja, as possíveis soluções para o problema que estamos tentando resolver.
-
-**Pandas** - lib utilizada para manusear os dados, combinando recursos de manipulação dos dados e funcionalidades sofisticada para facilitar todas as operações com os dados (execução de agregações, seleciona subconjuntos de dados, etc.);
-
-**Matplotlib** - biblioteca Python utilizada para produzir gráficos.
-
-## **Contribuições Pessoais**
-
-**Desenvolvimento da análise** - #TODO
-
-**Checklist arquivos de dados** - os dados utilizados neste projeto precisam ser obtidos de forma manual, no caso através de plataformas do governo brasileiro (TSE/IBGE). Com a finalidade de tornar mais facil compreender se temos tudo pronto para rodar o projeto, foi criado um 'checkpoint' no notebook que valida se todos os arquivos necessarios estão presentes no repositório. Com isso evitamos quebrar analises ou até mesmo ter analises imprecisas de evolução por falta de atenção à estes requisitos do projeto;
-
-**Funções multiuso** - #TODO
-
-**Melhorias nos gráficos de estátistica** - no inicio do projeto usei diversos graficos de pizza envolvendo porcentagens para demonstrar alguns comparativos retirados dos dados, porém ao longo do projeto fiz adaptações para os comparativos fossem apresentados em cima das quantidades envolvidas, de forma à proporcionar analises precisas e fáceis comparar. O grafico de pizza envolvia alguns ponto negativos que foram eliminados ao trocar por um outro tipo de grafico, a quantidade representada por fatias não é tão facil de compreender para as pessoas em geral e existia dificuldade em mostrar categorias com pequenas porcentagens.
+**Jupyter Notebook** - o uso do Jupyter Notebook possibilita desenvolver a solução de forma mais lúdicas, uma vez que através dos blocos de texto podemos explicar o contexto da análise assim como o objetivo do nosso projeto, o conhecimento que está sendo extraído dos dados e as conclusões, ou seja, as possíveis soluções para o problema que estamos tentando resolver;
  
-**Exportação das análises** - #TODO
-
+**Pandas** - lib utilizada para manusear os dados, combinando recursos de manipulação dos dados e funcionalidades sofisticadas para facilitar todas as operações com os dados (execução de agregações, selecionar subconjuntos de dados, etc.);
+ 
+**Matplotlib** - biblioteca Python utilizada para produzir gráficos.
+ 
+## **Contribuições Pessoais**
+ 
+**Desenvolvimento da análise** - o desenvolvimento das análises foram realizados em um jupyter notebook e contemplam diversos pontos: classificação do eleitorado em diversas características, estatísticas sobre a renda média, porcentagem de eleitores presentes/ausentes, evolução do número de eleitores. O notebook também permite customizar "variáveis de ambiente", possibilitando configurar o ano da eleição que o usuário quer analisar e também escolher algumas cidades para que seja possível analisar indicadores especificamente dessas cidades;
+ 
+**Checklist de arquivos de dados** - os dados utilizados neste projeto precisam ser obtidos de forma manual, no caso através de plataformas do governo brasileiro (TSE/IBGE). Com a finalidade de tornar mais fácil compreender se temos tudo pronto para rodar o projeto, foi criado um 'checkpoint' no notebook que valida se todos os arquivos necessários estão presentes no repositório. Com isso evitamos quebrar análises ou até mesmo ter análises imprecisas de evolução por falta de atenção à estes requisitos do projeto;
+ 
+**Funções multiuso** - com a finalidade de não ter linhas de código repetidas na análise, foi aplicado o princípio "Don't repeat yourself" (DRY), onde foram criadas funções para possibilitar sua reutilização ao longo da análise (exemplos: função para carregar os DF, função para adicionar labels aos gráficos, funções arredondamento porcentagem, etc.);
+ 
+**Melhorias nos gráficos de estatística** - no início do projeto usei diversos gráficos de pizza envolvendo porcentagens para demonstrar alguns comparativos retirados dos dados, porém ao longo do projeto fiz adaptações para os comparativos fossem apresentados em cima das quantidades envolvidas, de forma a melhorar a forma com que a análise transmite as informações. O gráfico de pizza possuía alguns pontos negativos: a quantidade representada por fatias não é tão fácil de compreender para as pessoas em geral e existia dificuldade em mostrar categorias com pequenas porcentagens, ambos estes aspectos foram eliminados ao trocar por um outro tipo de gráfico;
+ 
+**Exportação das análises** - o processo de manusear os dados originais com a finalidade de realizar as análises, seja realizando filtros ou agregando informações destes dados, acaba gerando novos dados como resultados (exemplo: contagem de eleitores que votaram e que não votaram na cidade de São José dos Campos). Com isso foi desenvolvido também uma forma de exportar esses dados 'finais/novos' de cada análise em formato '.csv';
+ 
 ## **Hard Skills Desenvolvidas**
  
-**Python para Análise de Dados** - #TODO
-  
+**Jupyter Notebook** - Ao me deparar com o requisito de desenvolver em um ambiente diferente do 'tradicional' para desenvolvimento em Python, precisei estudar o funcionamento do ambiente jupyter notebook. Conforme eu fui me aprofundando no estudo e colocando em prática pude perceber cada vez mais a facilidade de desenvolver esse tipo de projeto (análise de dados) em um ambiente Jupyter Notebook. A ferramenta possibilitou descrever a 'linha de pensamento' da análise, deixando claro o que está sendo desenvolvido quase que passo-a-passo, agregando muito valor à análise e ao projeto como um todo;
+ 
+**Python para Análise de Dados** - este projeto possibilitou trabalhar e aprender uma stack bem consolidada no mercado para Análise de dados: python, notebooks, pandas, matplotlib e numpy. Pude aprimorar o conhecimento em Python e conhecer um 'universo' diferente do que costumo trabalhar em desenvolvimento. Tive uma boa curva de aprendizagem, oque se deu bastante pela facilidade de achar bons materiais para estudo sobre os temas e também pude perceber ao longo do desenvolvimento deste projeto as facilidades da linguagem para fazer análise de dados, com comandos simples e funções intuitivas foi possível chegar no resultado esperado.
+ 
 ## **Soft Skills Desenvolvidas**
  
-**Organização** - este projeto demandou uma organização do ambiente de desenvolvimento como um todo para que o tempo fosse bem aproveitado.Desde organização das atividades até como organizar links úteis com as informações cruciais para o desenvolvimento do projeto foram execenssiais para trabalhar de forma mais rápida e eficaz e diminuir a suscetibilidade aos erros ou falta de fixação de conhecimento;
-  
-**Autogerenciamento** - com o intuito de ser mais produtivo foi necessario autogerenciar meu tempo para desenvolver o projeto de forma eficiente sem deixar outras frentes do próprio curso para tras. Para isso criei uma agenda que evoluiu conforme o projeto: primeiramente o tempo foi dedicado ao estudo para me habiltar à mexer com as ferramentas propostas no projeto (jupyter, pandas), na sequência foi necessario entender os dados que estaria usando para assim ter mais facilidade de desenvolver o projeto e por fim tempo realmente desenvolvendo e aprendendo sob demanda.
-
+**Organização** - este projeto demandou uma organização do ambiente de desenvolvimento como um todo para que o tempo fosse bem aproveitado. Desde organização das atividades até como organizar links úteis com as informações cruciais para o desenvolvimento do projeto foram essenciais para trabalhar de forma mais rápida e eficaz e diminuir a suscetibilidade aos erros ou falta de fixação de conhecimento;
+ 
+**Autogerenciamento** - com o intuito de ser mais produtivo foi necessário autogerenciar meu tempo para desenvolver o projeto de forma eficiente sem deixar outras frentes do próprio curso para trás. Para isso criei uma agenda que evoluiu conforme o projeto: primeiramente o tempo foi dedicado ao estudo para me habilitar a mexer com as ferramentas propostas no projeto (jupyter, pandas), na sequência foi necessário entender os dados que estaria usando para assim ter mais facilidade de desenvolver o projeto e por fim tempo realmente desenvolvendo e aprendendo sob demanda.
+ 
  </br>
 
 ---
