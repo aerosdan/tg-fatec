@@ -125,7 +125,7 @@ Essa solução ajudaria pessoas inexperientes em investimentos em ações que qu
 
 **Python** - praticamente todos da equipe tinham um conhecimento prévio - em diferentes níveis - na linguagem, então optamos por utilizá-la pois com isso conseguimos proporcionar uma boa curva de aprendizagem para todos os integrantes: os que já conheciam poderiam auxiliar os demais à iniciar na linguagem e também construir um conhecimento mais aprofundado para si mesmos, uma vez que já contavam com um certo alicerce;
  
-**MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
+**MySQL** - escolhemos este SGBD relacional tanto pela familiaridade do time com a ferramenta quanto pela disponibilização de um banco em cloud de graça;
  
 **Lib Selenium** - o pacote Selenium foi usado para automatizar a interação da aplicação com o navegador da web a partir do Python, especificamente para acessar o site onde os dados das ações ficam;
  
@@ -146,12 +146,13 @@ Essa gama de diferentes formas de interagir com a aplicação agregaram valor à
 * Interação com Email - mime types; 
 * Interação com Bot Telegram - automatização do bot;   
 * Interação com MySQL através do Python - CRUD; 
-* Pandas,Selenium, Beautiful Soup - funcionamento das bibliotecas;
+* Pandas, Selenium, Beautiful Soup - funcionamento das bibliotecas;
  
 ## **Soft Skills Desenvolvidas**
  
 **Trabalho em Equipe** - as dinâmicas aplicadas pelos Master contribuíram para o fortalecimento da equipe, tornando-a uma equipe sinérgica, assertiva, resolutiva e focada na qualidade dos resultados;
- **"Aprender a aprender"** - tivemos bastante contato com os Masters do 6º semestre que auxiliaram e contribuíram com as trocas de experiências. Esse contato, promoveu a reflexão  da equipe e fortaleceu a construção do conhecimento com o aprendizado de novos conceitos. 
+
+**"Aprender a aprender"** - tivemos bastante contato com os Masters do 6º semestre que auxiliaram e contribuíram com as trocas de experiências. Esse contato, promoveu a reflexão  da equipe e fortaleceu a construção do conhecimento com o aprendizado de novos conceitos. 
 
  </br>
 
@@ -188,7 +189,7 @@ O projeto Bridges visa permitir que o usuário cadastre todos os aspectos de seu
 
 **Python** - foi escolhida a linguagem Python pois entendemos que facilitaria a entrega do projeto (que era mais densa que o primeiro); 
  
-**MySQL** - banco relacional escolhido tanto pela familiaridade do time quanto pela disponibilização de um banco em cloud de graça;
+**MySQL** - a escolha deste SGBD relacional foi pelo fato que no primeiro API configuramos um ambiente em cloud para essa instância, o que facilitou a integração e configuração deste novo projeto com o Banco de Dados;
  
 **Django** - o framework proporcionou à equipe agilidade em desenvolver em conjunto de uma forma simplificada (centralizando front e backend na mesma aplicação com facilidade), além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos dúvidas e materiais de aprendizagem.
 
@@ -253,19 +254,19 @@ O Projeto VALCODE tem a intenção de introduzir o usuário - que na maioria dos
  
 ## **Tecnologias Utilizadas**
  
-**Java** - linguagem fixada pela FATEC;
+**Java** - a linguagem foi fixada pela FATEC;
 
-**Spring-boot** - o framework possibilitaria termos mais agilidade em desenvolver em conjunto. Além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos dúvidas e materiais de aprendizagem;
+**Spring-boot** - o framework possibilitou termos mais agilidade em desenvolver em conjunto. Além de ser bem consolidado no mercado e ter uma comunidade muito ativa para pesquisarmos dúvidas e materiais de aprendizagem;
 
-**Oracle** - banco de dados fixado pela FATEC.
+**Oracle** - o SGBD foi fixado pela FATEC.
  
 ## **Contribuições Pessoais**
  
-Neste projeto atuei principalmente na camada de banco de dados e, como SCRUM Master, orquestrando o time para termos boas entregas no desenrolar do projeto.
+Neste projeto atuei principalmente na camada de banco de dados. Também contribui organizando e orquestrando o time para termos boas entregas no desenrolar do projeto (SCRUM MASTER).
  
 **Base de Dados** - Fiquei responsável pelo database inicial direto no SQL e gerei dados mockados para o restante da equipe utilizar até termos um dataset disponibilizado pelo cliente. Com o andamento do projeto fomos controlando o banco através do Spring-boot (model) e adicionando as funcionalidades de interação nessa camada da aplicação;
 
-**SCRUM Master** - Consegui contribuir bem com ideias para construir o escopo do produto final assim como manter o foco do time nestes objetivos iniciais ao longo do projeto. Também apoiei o time de desenvolvimento nas definições dos focos (funções) que cada integrante teria e contribuindo em casos de problemas técnicos (debugs).
+**SCRUM Master** - Consegui contribuir bem com ideias para construir o escopo do produto final, assim como manter o foco do time nestes objetivos iniciais ao longo do projeto. Também apoiei o time de desenvolvimento nas definições dos focos (funções) que cada integrante teria e contribuindo em casos de problemas técnicos (debugs).
 
 ## **Hard Skills Desenvolvidas**
 
@@ -350,11 +351,11 @@ Desenvolver uma solução de dados voltada ao ensino à distância para a gestã
  
 ## **Tecnologias Utilizadas**
  
-**Python** - implementação eficaz e simplificada para interação com as bases de dados escolhidas e para tratamento de dados, altamente recomendada e utilizada para essa finalidade;
+**Python** - a escolha dessa linguagem foi devido ter uma implementação eficaz e simplificada tanto para interação com as bases de dados escolhidas (Mongo) quanto para tratamento de dados, sendo a mesma altamente recomendada e utilizada para essa finalidade no mercado de trabalho;
  
-**MongoDB** - base de dados que permite fácil interação e manutenção dos dados;
+**MongoDB** - este SGBD não relacional nos garantiu uma fácil interação entre código e dados além de proporcionar uma simplicidade na manutenção dos dados ao longo do projeto;
  
-**Rocket Chat** - Sistema de Chat "plug and play" facilmente integrado à nossa solução;
+**Rocket Chat** - este sistema de Chat "plug and play" foi facilmente integrado à nossa solução, a escolha e implementação dele foi devido identificarmos que poderíamos usar uma ferramenta já pronta e 'acoplar' no projeto para que pudéssemos nos dedicar à requisitos mais específicos que demandaram desenvolver literalmente do 0 devido a solicitação do parceiro acadêmico;
  
 ## **Contribuições Pessoais**
 
@@ -400,9 +401,9 @@ O projeto tem por objetivo proporcionar a um Telejornal da região do Vale do Pa
  
 ## **Tecnologias Utilizadas**
  
-**Jupyter Notebook** - o uso do Jupyter Notebook possibilita desenvolver a solução de forma mais lúdicas, uma vez que através dos blocos de texto podemos explicar o contexto da análise assim como o objetivo do nosso projeto, o conhecimento que está sendo extraído dos dados e as conclusões, ou seja, as possíveis soluções para o problema que estamos tentando resolver;
+**Jupyter Notebook** - o uso do Jupyter Notebook possibilitou desenvolver a solução de forma mais lúdica, uma vez que através dos blocos de texto podemos explicar o contexto da análise assim como o objetivo do nosso projeto, o conhecimento que está sendo extraído dos dados e as conclusões, ou seja, as possíveis soluções para o problema que estamos tentando resolver;
  
-**Pandas** - lib utilizada para manusear os dados, combinando recursos de manipulação dos dados e funcionalidades sofisticadas para facilitar todas as operações com os dados (execução de agregações, selecionar subconjuntos de dados, etc.);
+**Pandas** - está lib foi utilizada para manusear os dados, combinando recursos de manipulação dos dados e funcionalidades sofisticadas para facilitar todas as operações com os dados (execução de agregações, selecionar subconjuntos de dados, etc.);
  
 **Matplotlib** - biblioteca Python utilizada para produzir gráficos.
  
