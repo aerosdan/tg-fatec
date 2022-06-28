@@ -244,7 +244,7 @@ Período de desenvolvimento: 2º Semestre 2020
 
 ## **Descrição do Projeto**
  
-O Projeto VALCODE tem a intenção de introduzir o usuário - que na maioria dos casos é uma PF - à dinâmica de Score. Apresentando por meio de uma aplicação WEB como está a saúde do seu score assim como os motivos para tal status e  apresentando dicas de como poderia melhorar seu score e até mesmo atuar em outras frentes - como investimentos em ações - caso seu score esteja com uma boa pontuação. O projeto possui as seguintes features:
+O Projeto VALCODE introduz o usuário - que na maioria dos casos é uma PF - à dinâmica de Score. Apresentando por meio de uma aplicação WEB como está a saúde do seu score assim como os motivos para tal status e  apresentando dicas de como poderia melhorar seu score e até mesmo atuar em outras frentes - como investimentos em ações - caso seu score esteja com uma boa pontuação. O projeto possui as seguintes features:
 * Cadastrar Usuários;
 * Conceder, estender ou revogar acessos aos próprios dados;
 * Calcular Score;
@@ -303,7 +303,7 @@ Período de desenvolvimento: 1º Semestre 2021
  
 ## **Descrição do Projeto**
  
-O Projeto NEMO visa entregar uma aplicação que resolva o problema de "match" entre candidatos e vagas, onde se possa alcançar os melhores candidatos para as vagas apresentadas com seus diversos requisitos.
+O Projeto NEMO consiste em uma aplicação que realiza um "match" entre candidatos e vagas de emprego, possibilitando alcançar os melhores candidatos para as vagas apresentadas com seus diversos requisitos.
  
 ## **Tecnologias Utilizadas**
  
@@ -347,7 +347,7 @@ Período de desenvolvimento: 2º Semestre 2021
  
 ## **Descrição do Projeto**
  
-Desenvolver uma solução de dados voltada ao ensino à distância para a gestão e oferta de conhecimento, dando suporte às mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. Fazer a gestão de logs para alimentar um Data Warehouse a fim de possibilitar a melhor gestão estratégica do negócio.
+Este projeto entrega uma solução de dados voltada ao ensino à distância para a gestão e oferta de conhecimento, fazendo a gestão de logs dos chats e da plataforma em si para alimentar um Data Warehouse a fim de possibilitar a melhor gestão estratégica do negócio por meio de um Dashboard.
  
 ## **Tecnologias Utilizadas**
  
@@ -397,7 +397,7 @@ Período de desenvolvimento: 1º Semestre 2022
  
 ## **Descrição do Projeto**
  
-O projeto tem por objetivo proporcionar a um Telejornal da região do Vale do Paraíba uma análise de dados com a exibição de estatísticas do eleitorado localizado dentro de sua cobertura no Estado de São Paulo. As análises deveriam mapear características do eleitorado, como estado civil, escolaridade e faixa etária, informações sobre renda da cidade/região e evolução na quantidade de eleitores, tanto no âmbito municipal (de cada cidade) quanto nas macro-regiões, como o Vale do Paraíba.
+O projeto tem por objetivo proporcionar a um Telejornal da região do Vale do Paraíba uma análise de dados com a exibição de estatísticas do eleitorado localizado dentro de sua cobertura no Estado de São Paulo. As análises mapeiam características do eleitorado, como estado civil, escolaridade e faixa etária, informações sobre renda da cidade/região e evolução na quantidade de eleitores, tanto no âmbito municipal (de cada cidade) quanto nas macro-regiões, como o Vale do Paraíba.
  
 ## **Tecnologias Utilizadas**
  
